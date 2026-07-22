@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://anirudhatalmale6-alt.github.io/green-meadow-dairy/sitemap.xml
